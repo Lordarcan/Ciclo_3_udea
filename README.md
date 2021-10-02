@@ -1,5 +1,5 @@
 # Ciclo_3_udea
-Retos del ciclo 3
+# Equipo 22
 # Sprint 2
 
 # Jorge Botero: Login-Logout, realizado en material-ui
@@ -12,4 +12,4 @@ Retos del ciclo 3
 
 # Isabella:
 
-# Equipo 22
+
