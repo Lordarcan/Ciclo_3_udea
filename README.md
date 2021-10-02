@@ -2,7 +2,7 @@
 # Equipo 22
 # Sprint 2
 
-# Jorge Botero: Login-Logout, realizado en material-ui
+# Jorge: Login-Logout, realizado en material-ui
 
 # Juan: 
 
