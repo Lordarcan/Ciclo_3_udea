@@ -8,7 +8,7 @@ Retos del ciclo 3
 
 # Adrian:
 
-# Jose
+# Jose:
 
 # Isabella:
 
