@@ -1,0 +1,30 @@
+<Form>
+        <Form.Group>
+          <Form.Label>Email Adress</Form.Label>
+          <Form.Control type="email" placeholder="Example@mail.com"/>
+          <Form.Text className='text-muted'>
+            We´ll never share you email adress trust us! 
+          </Form.Text>
+        </Form.Group>
+      </Form>
+       
+       //<Card style={{ color: "#000"}} >
+          <Card.Img/>
+            <Card.Body>
+              <Card.Title> 
+                Card Example
+              </Card.Title>
+              <Card.Text>
+                This is an Example of react Boosstrap cards
+              </Card.Text>
+              <Button variant="primary">Read More</Button>
+            </Card.Body>
+         </Card>//
+        <Breadcrumb> 
+          <Breadcrumb.Item>Test 1</Breadcrumb.Item>
+          <Breadcrumb.Item>Test 2</Breadcrumb.Item>
+          <Breadcrumb.Item active>Test 3</Breadcrumb.Item>
+        
+        </Breadcrumb>
+        <Alert variant="secundary">This is a Button</Alert>
+         <Button> Test Button </Button>
