@@ -6,7 +6,7 @@
 
 # Juan: 
 
-# Usuario: adriedugompin
+# Usuario adriedugompin :
  Nombre: Adrian Gomez
  Correo: adrigom@yahoo.com.co
  Para Sprint 2 rol: Scrum Master y desarrollador
