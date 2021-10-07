@@ -14,6 +14,6 @@
 
 # Jose:
 
-# Isabella:
+# Isabella: Interfaz registro de productos 
 
 
