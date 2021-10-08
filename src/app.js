@@ -8,7 +8,7 @@ const data = [
   { Documento: 1152739936, Nombres: "Pedro", Apellidos: "Perez" , Estado: "Autorizado", Rol: "Administrador" , Correo: "a.a@gmail.com"},
   { Documento: 118125678, Nombres: "Juan", Apellidos: "Gonzalez", Estado: "Pendiente", Rol: "" , Correo: "a.a@gmail.com"},
   { Documento: 30209876, Nombres: " ", Apellidos: "ruiz" , Estado: "Autorizado", Rol: "Administrador" , Correo: "a.a@gmail.com"},
-  { Documento: 53765456, Nombres: "supervisor", Apellidos: "", Estado: "No autorizado", Rol: "Vendedor" , Correo: "a.a@gmail.com"},
+  { Documento: 53765456, Nombres: "supervisor ", Apellidos: "", Estado: "No autorizado", Rol: "Vendedor" , Correo: "a.a@gmail.com"},
   { Documento: 7890766, Nombres: "luisa", Apellidos: "beltran" , Estado: "Pendiente", Rol: "" , Correo: "a.a@gmail.com" },
 ];
 
