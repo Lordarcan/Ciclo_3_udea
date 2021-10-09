@@ -1,0 +1,29 @@
+{
+  "name": "Ciclo_3_udea",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.10",
+    "morgan": "^1.10.0",
+    "prop-types": "^15.7.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lordarcan/Ciclo_3_udea.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lordarcan/Ciclo_3_udea/issues"
+  },
+  "homepage": "https://github.com/Lordarcan/Ciclo_3_udea#readme"
+}
