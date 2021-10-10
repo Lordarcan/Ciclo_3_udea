@@ -9,15 +9,15 @@ router.get('/', async (req, res) => {
 });
 
 router.post('/', async (req, res) => {
-    const {nombre, descripcion} = req.body;
-    const producto = new Products({nombre, descripcion});
+    const {nombre, descripcion, precio} = req.body;
+    const producto = new Products({nombre, descripcion, precio});
     await producto.save();
     res.json({status: 'Producto guardado'});
 });
 
 router.put('/:id', async (req, res) => {
-    const {nombre, descripcion} = req.body;
-    const nuevoProducto = {nombre, descripcion};
+    const {nombre, descripcion, precio} = req.body;
+    const nuevoProducto = {nombre, descripcion, precio};
     await Products.findByIdAndUpdate(req.params.id, nuevoProducto);
     res.json({status: 'Producto actualizado'});
 });
